@@ -1,4 +1,5 @@
 node_modules/
+training2/
 .expo/
 dist/
 npm-debug.*
